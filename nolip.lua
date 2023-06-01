@@ -37,5 +37,4 @@ game:GetService("RunService").RenderStepped:Connect(function()
         Char.HumanoidRootPart.Anchored = false
     end
 end)
-end)
 
